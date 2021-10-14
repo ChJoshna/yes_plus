@@ -1,0 +1,9 @@
+.contact{
+    display: flex;
+flex: 1;
+flex-direction: column;
+}
+.section-title{
+    font-size: 32px;
+    font-weight: 700;
+}
